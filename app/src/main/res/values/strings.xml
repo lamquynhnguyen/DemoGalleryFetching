@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoGalleryFetching</string>
+    <string name="btn_load">Load Image</string>
+    <string name="btn_delete">Delete Image</string>
 </resources>
